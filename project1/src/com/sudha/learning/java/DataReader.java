@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class DataReader {
 
     //Write a method to read a line to get set of numbers from user
-    public static int[] readData()
+    public static int[] readIntegers()
     {
         String strNumbers;
         Scanner sc = new Scanner(System.in);
